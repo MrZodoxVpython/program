@@ -1,2 +1,1 @@
-# program
-this repo will be use to able all program when build.
+this repo will be use to accommodate all small program
