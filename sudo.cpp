@@ -4,8 +4,11 @@ int main(){ //this part is an deklarasi of function
 	cout << "Hello, I start learning cpp again to getting more remember" << endl;
 	for(int i = 0; i < 10; i++) {
 		cout << "learning cpp" << endl;
-		
 	}
 	
+	string nickname = "jancok";
+	cout << nickname << endl;
+	
 	return 0;
+
 }
