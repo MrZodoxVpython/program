@@ -1,4 +1,5 @@
 #include <stdio.h>
 void main(){
-	printf("hello, everyone\n");
+	printf("Hello, World\n");
+	printf("Me Too, You");
 }
