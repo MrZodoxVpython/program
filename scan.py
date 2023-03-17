@@ -108,7 +108,7 @@ def sortlist():
 		for wr in p:
 			f.write(wr+'\n')
 		f.close()
-		print 'Changes Saved !!!!'
+		print 'Changes Saved!'
 	print 'Sorting List....'
 	os.system('sort -bfidu mp3.list -o mp3.list')
 	dislist()
