@@ -142,7 +142,7 @@ while flg:
 		flg=False
 
 if len(p) ==0:
-	print "No Songs Found in here!!"
+	print "No Songs Found in here!"
 	print "Songs with .mp3 extension are recognised only !!!"
 	Exit()
 cols=int(os.popen('echo $COLUMNS').read().split('\n')[0])
