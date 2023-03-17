@@ -196,7 +196,7 @@ while n < len(p):
 		try:
 			inp=raw_input('TPlay > ').strip()
 		except:
-			print 'Some Exception Occurred!!!'
+			print 'Some Exception Occurred!'
 			os.popen("rm info.xx")
 			os.popen("termux-media-player stop")
 			print "Exiting Player...\n"
