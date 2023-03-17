@@ -156,7 +156,7 @@ for pr in p:
 		ap=ap[:len(ap)-dif]
         sname.append(ap)
 
-print 'Songs Loaded !!!'
+print 'Songs Loaded!'
 os.system("clear")
 n=0
 k=randint(0,len(p)-1)
